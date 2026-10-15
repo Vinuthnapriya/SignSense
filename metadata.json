@@ -1,0 +1,6 @@
+{
+  "name": "SignSense - Real-Time Sign Language Recognition",
+  "description": "Real-time sign language and gesture recognition using deep learning with Google MediaPipe and TensorFlow Lite in your browser.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
